@@ -1,0 +1,5 @@
+*.tgz
+*.gz
+*.zip
+*.deb
+sophon-img/
