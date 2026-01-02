@@ -1,0 +1,7 @@
+username: modelzoo
+passwd: Sophgo@2023
+
+modelzoo_v1.20_all:
+http://172.28.142.24/webdav/model-zoo-release/model-zoo_v1.20_a8ebaac8.tar.bz2
+modelzoo_v1.20_bm1690:
+http://172.28.142.24/webdav/model-zoo-release/model-zoo_v1.20_a8ebaac8_BM1690.tar.bz2

@@ -1,0 +1,6 @@
+libsophon-BM1684X（v24.04.01 SDK）：/sophon-sdk/libsophon/release_build/Release_20240606_202137
+                                 （soc bsp）：/sophon-sdk/sophon-img/release_build/Release_20240607_044900
+
+libsophon-BM1688：/athena2/sophon-img-edge-auto/release_build/20241103_004444
+
+TPUV7_BM1690：Master_20250321_100643

@@ -1,0 +1,5 @@
+module:sophon-demo(release)
+commit 913adf01d4abe498543f8b49508abe2a59fc201f
+
+buildname:Release_20250918_091032
+buildtime:20250918_091032

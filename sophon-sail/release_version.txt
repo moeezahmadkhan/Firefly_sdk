@@ -1,0 +1,5 @@
+module:sophon-sail(release)
+commit 3e4f0b624a0d87682309e47038b969b9a21ab04a
+
+buildname:Release_20250918_091107
+buildtime:20250918_091107
